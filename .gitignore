@@ -1,0 +1,14 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Azure Functions
+local.settings.json
+
+# OS
+.DS_Store
+
+# Locust output (optional: you may keep csv)
+# *.csv
+
